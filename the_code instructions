@@ -1,0 +1,6 @@
+Both codes are ready to run. For each code, you need to choose the settings at the beginning. 
+There are three data sets, the adults' income data set that you can download with the code, 
+and a PAMAP2 Physical Activity Monitoring data set that can be downloaded from the UCI Machine 
+Learning repository athttps://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring, and a 
+synthetic dataset. You also need to choose the number of federated learning participants, attack type, number of attackers, 
+thresholds, attack start and end epochs, and the total training periods.
